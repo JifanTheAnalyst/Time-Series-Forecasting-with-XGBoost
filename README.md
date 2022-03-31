@@ -8,4 +8,4 @@ This study aims for forecasting store sales for Corporación Favorita, a large E
 Data Source and Descriptions: https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
 
 Refrence:
-Big thanks to KASHISH RASTOGI: for the data visualisation dashboard.
+Big thanks to Kashish Rastogi: for the data visualisation dashboard.
